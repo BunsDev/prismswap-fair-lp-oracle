@@ -1,0 +1,3 @@
+# Prismswap Fair LP Price Oracle
+
+This repository contains the source code for an oracle contract that returns the fair price of [Prism Protocol](https://prismprotocol.app)'s Prismswap AMM. Prices are calculated using [Nipun Pitimanaaree](https://twitter.com/nipun_pit)'s fair LP token pricing formula ([source](https://blog.alphaventuredao.io/fair-lp-token-pricing/)) and based heavily off [Larry](https://twitter.com/larry0x)'s implementation used in [Mars Protocol](https://marsprotocol.io/)'s Field of Mars contracts.
